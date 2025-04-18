@@ -1,4 +1,4 @@
-# Multi-AI-Agent-Projects
+# Multi-AI-Agent-Project
 This repository showcases a Multi-Agent Skincare Routine Generator built using CrewAI and Hugging Face LLMs. The project includes the following agents:
 
 1. Skin Profile Expert: Analyzes user's skin type, concerns, and environment.
