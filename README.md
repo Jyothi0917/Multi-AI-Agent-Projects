@@ -24,7 +24,7 @@ This repository showcases a Multi-Agent Skincare Routine Generator built using C
 3. Run the agent system using your own Hugging Face API key.
 4. Input your skin details, and the agents will provide a skincare routine and product suggestions.
 
-<br>
 
-| **Note**: The output shown is from a test run, and due to the unexpected API behavior, the final output might have some repetitions.
+
+
 
