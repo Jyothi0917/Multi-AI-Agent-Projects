@@ -27,3 +27,10 @@ Getting Started:
   3. Run the agent system using your own Hugging Face API key.
 
 Input your skin details, and the agents will provide a skincare routine and product suggestions.
+
+
+
+
+
+
+Note: The output shown is from a test run, and due to the unexpected API behavior, the final output might have some repetitions.
