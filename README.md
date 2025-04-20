@@ -33,4 +33,4 @@ Input your skin details, and the agents will provide a skincare routine and prod
 
 
 
-Note: The output shown is from a test run, and due to the unexpected API behavior, the final output might have some repetitions.
+| Note: The output shown is from a test run, and due to the unexpected API behavior, the final output might have some repetitions.
